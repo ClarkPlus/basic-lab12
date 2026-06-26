@@ -14,15 +14,14 @@
 - **Todo Application:** [http://100.58.169.156:8081](http://你的服务器IP:8081)
 - ***But the server IP would be changed***
 
-## Work Distribution (if working alone)
+## Work Distribution (working alone)
 
-- 100% (completed individually)
+- 100% Clark (completed individually)
 
 ## Repository Structure
 
-- `.github/workflows/deploy.yml` – CI/CD pipeline
-- `website/` – personal website source and Dockerfile
-- `todo-app/` – todo application (Dockerfile or compose service)
+- `.github/workflows/main.yml` – CI/CD pipeline
+- `myweb/` – personal website source and Dockerfile
 - `docker-compose.yml` – service orchestration
 - `README.md` – this file
 
